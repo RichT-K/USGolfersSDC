@@ -1,7 +1,10 @@
 # USGolfersSDC
 Project encapsulating the three main segments of the USGolfers Application - Server-API-Client
+
     Server : ASP( JScript and Classic) routing requests to/from Clients while providing data from the API
+    
     API    : ASP( JScript and Classic) database interface
+    
     Client : Svelte components, some with offline capabilities
 
 ASP has been a dying language for a decade or more an yet it is still around and still performs adaquately.
